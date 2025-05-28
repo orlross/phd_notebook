@@ -1,4 +1,4 @@
-# Notebooks - Thèse d'Amélie
+# Notebooks 
 
 This repository contains :
 
